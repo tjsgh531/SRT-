@@ -1,12 +1,14 @@
 ## STR 자동 예매 매크로 만들기
 #### 활용 라이브러리
 - selenium : to craw SRT data
+  
 ![selenium_icon](selenium_icon.png)
 
 - PyKakao : to send success message
+  
 ![PyKakao icon](PyKakao_icon.png)
 
-
+#### 구현 flow
 [PyKakao]
 - 카카오 로그인
 - 카카오로 너한테 메세지 보내도 되는지 auth 관련 code 받기
